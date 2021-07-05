@@ -1,3 +1,5 @@
+# Machine Learning 2021 
+
 Machine Learning (NTU EE 5184, Spring 2021)
 
 Instructor: Hung-yi Lee
@@ -6,7 +8,7 @@ Course Website : (https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)
 
 ---
 
-## Homework
+## Homeworks
 |#|Homework|Public score|Private Score|Score|Ranking*
 |-|-|-|-|-|-|
 |1|Regression|0.87985|0.91099|9|Top 35% (709/2032)
@@ -24,8 +26,15 @@ Course Website : (https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)
 |13|Compression|0.75686|0.75493|9.5|Top 19% (109/590)
 |14|Life-Long Learning|NA|NA|9.2|NA
 |15|Meta Learning|NA|NA|TBD|NA
----
+
 *Ranking is based on private leaderboard
 
-### "Sorry, something went wrong. Reload?" when viewing *.ipynb on Github
-Copy the URL to https://nbviewer.jupyter.org/
+---
+
+# Usage - Viewing Jupyter notebook
+
+Sometimes the error message "Sorry, something went wrong. Reload?" appears when viewing *.ipynb on a GitHub.
+
+We recommend using nbviewer to view the `.ipynb` files
+
+Simply copy the URL of this repository to https://nbviewer.jupyter.org/
