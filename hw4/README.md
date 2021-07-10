@@ -7,7 +7,6 @@
 
 # Quick  start to run my code
 
-* `cd r08921050_hw4`
 * `git clone https://github.com/Masao-Someki/Conformer.git`
 * `export PYTHONPATH="$PWD/Conformer"`
 * `python ./hw4.py`
