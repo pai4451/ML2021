@@ -63,7 +63,7 @@ chmod 777 ./wgetgdrive.sh
 
 # Achievement
 
-I finish all 15 assignments with each score of 9+ and win a T-shirt as a prize. Only Top 2% (16/1280) of students have such an achievement.
+I finish all 15 assignments with each score of **9+** and win a T-shirt as a prize. Only **Top 2% (16/1280)** of students have such an achievement.
 <p align="center">
 <img src="https://github.com/pai4451/ML2021/blob/main/t-shirt.png" alt="shirt">
 </p>
