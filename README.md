@@ -60,3 +60,10 @@ For example, to download the data of HW3 and name it as `food-11.zip`, simply ru
 chmod 777 ./wgetgdrive.sh
 ./wgetgdrive.sh 1awF7pZ9Dz7X1jn1_QAiKN-_v56veCEKy food-11.zip
 ```
+
+# Achievement
+
+I finish all 15 assignments with each score of 9+ and win a T-shirt as a prize. Only Top 2% (16/1280) of students have such an achievement.
+<p align="center">
+<img src="https://github.com/pai4451/ML2021/blob/main/t-shirt.png" alt="shirt">
+</p>
