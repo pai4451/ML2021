@@ -50,14 +50,14 @@ The url has the following format
 Copy the ID and run the script `wgetgdrive.sh` as follows
 
 ```
-chmod 777 ./wgetgdrive.sh
+chmod a+x ./wgetgdrive.sh
 ./wgetgdrive.sh [ID] [file_name]
 ```
 
 For example, to download the data of HW3 and name it as `food-11.zip`, simply run the following 
 
 ```
-chmod 777 ./wgetgdrive.sh
+chmod a+x ./wgetgdrive.sh
 ./wgetgdrive.sh 1awF7pZ9Dz7X1jn1_QAiKN-_v56veCEKy food-11.zip
 ```
 
